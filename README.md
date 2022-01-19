@@ -76,7 +76,7 @@ Coming Soon.
 
 |                                                        |        Service       |                  Description                        |
 | ------------------------------------------------------ | -------------------- | --------------------------------------------------- |
-|  <img src="./icons/Event-Hubs.svg" width="50px" />     | `Azure Event Hub`    |                  WordPress URL                      |
+|  <img src="./icons/Event-Hubs.svg" width="50px" />     | `Azure Event Hub`    |   [Azure Event Hub](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about) is a big data streaming platform and event ingestion service. It can receive and process millions of events per second.    |
 
 <br/>
 
@@ -85,7 +85,7 @@ Coming Soon.
 
 |                                                               |        Service           |                  Description                        |
 | ------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
-|  <img src="./icons/Stream-Analytics-Jobs.svg" width="50px" /> | `Azure Stream Analytics` |                  WordPress URL                      |
+|  <img src="./icons/Stream-Analytics-Jobs.svg" width="50px" /> | `Azure Stream Analytics` |    [Azure Stream](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction) Analytics is a real-time analytics and complex event-processing engine that is designed to analyze and process high volumes of fast streaming data from multiple sources simultaneously.   |
 
 <br/>
 
@@ -94,10 +94,10 @@ Coming Soon.
 
 |                                                                 |        Service           |                  Description                        |
 | --------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
-|  <img src="./icons/Key-Vaults.svg" width="50px" />              | `Azure Key Vault`        |                  WordPress URL                      |
-|  <img src="./icons/Policy.svg" width="50px" />                  | `Azure Policy`           |                    MySQL URL                        |
-|  <img src="./icons/Azure-Active-Directory.svg" width="50px" />  | `Azure Active Directory` |                 PHPMyAdmin URL                      |
-|  <img src="./icons/Security-Center.svg" width="50px" />         | `Azure Security Centre`  |                 PHPMyAdmin URL                      |
+|  <img src="./icons/Key-Vaults.svg" width="50px" />              | `Azure Key Vault`        |    [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/general/basic-concepts) is a cloud service for securely storing and accessing secrets.   |
+|  <img src="./icons/Policy.svg" width="50px" />                  | `Azure Policy`           |    [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview) helps to enforce organizational standards and to assess compliance at-scale.   |
+|  <img src="./icons/Azure-Active-Directory.svg" width="50px" />  | `Azure Active Directory` |    [Azure Active](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis) Directory (Azure AD) is Microsoft’s cloud-based identity and access management service, which helps your employees sign in and access resources.   |
+|  <img src="./icons/Azure-Defender.svg" width="50px" />         | `Microsoft Defender for Cloud`  |    [Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction) is a tool for security posture management and threat protection.   |
 
 <br/>
 
