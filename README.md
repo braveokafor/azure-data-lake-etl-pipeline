@@ -16,11 +16,11 @@ Coming Soon.
 
 <br/>
 
-## <p align="center">✌️ Details</p>
+## <p align="center"> 📄 Details</p>
 
-### ⚙️ Services Used
+### 🛠 Services Used
 
-<br/>
+<br/> 
 
 ###### `Data Ingestion`
 
@@ -157,7 +157,7 @@ Coming Soon.
 
 ### 🏗 Implementation / Provisioning
 
-<br/> 🏗
+<br/>
 
 ###### `IAC`
 
@@ -183,6 +183,6 @@ Coming Soon.
 
 
 
-## ✌️ Info
+## <p align="center">✌️ Info</p>
 
 Created by [Brave Okafor](https://github.com/braveokafor) for Johannes[]().
