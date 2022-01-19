@@ -106,7 +106,7 @@ Coming Soon.
 
 |                                                               |        Service           |                  Description                        |
 | ------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
-|  <img src="./icons/SAP-Azure-Monitor.svg" width="50px" />     | `Azure Monitor`          |                  WordPress URL                      |
+|  <img src="./icons/SAP-Azure-Monitor.svg" width="50px" />     | `Azure Monitor`          |   [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview) helps you maximize the availability and performance of your applications and services   |
 
 <br/>
 
@@ -115,7 +115,7 @@ Coming Soon.
 
 |                                                               |        Service                     |                  Description                        |
 | ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       | `Azure Resource Manager Templates` |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       | `Azure Resource Manager Templates` |   [ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) are a form of infrastructure as code, a concept where you define the infrastructure that needs to be deployed.  |
 
 <br/>
 
