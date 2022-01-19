@@ -78,7 +78,7 @@ sudo docker-compose up -d
 | -------------------------------------------------------------- | --------------------------- | --------------------------------------------------- |
 |  <img src="./icons/Data-Lake-Store-Gen1.svg" width="50px" />   | `Azure Data Bricks`         |                  WordPress URL                      |
 |  <img src="./icons/HD-Insight-Clusters.svg" width="50px" />    | `Azure HD Insight`          |                  WordPress URL                      |
-|                                                                | `Azure Data Lake Analytics` |                  WordPress URL                      |
+|  <img src="" width="50px" />                                   | `Azure Data Lake Analytics` |                  WordPress URL                      |
              
 <br/>
 
