@@ -45,6 +45,8 @@ sudo docker-compose up -d
 
 ### ⚙️ Services Used
 
+<br/>
+
 ###### `Data Ingestion`
 
 
@@ -139,7 +141,20 @@ sudo docker-compose up -d
 | ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       | `Azure Resource Manager Templates` |                  WordPress URL                      |
 
+<br/>
 
+
+
+
+### ⚙️ Accepted Data Input Types
+
+<br/>
+
+|                                                               |        Service                     |                  Description                        |
+| ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Structured Data`          |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |       `Semi-Structured Data`       |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Unstructured Data`        |                  WordPress URL                      |
 
 
 ### 🐳 Stop WordPress on Local Computer (docker-compose down)
