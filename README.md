@@ -67,7 +67,7 @@ Coming Soon.
 
 |                                                                   |          Service                |                  Description                        |
 | ----------------------------------------------------------------- | ------------------------------- | --------------------------------------------------- |
-|  <img src="./icons/Machine-Learning-Studio.svg" width="50px" />   | `Azure Machine Learning Studio` |     [Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-machine-learning-studio) is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure.                     |
+|  <img src="./icons/Machine-Learning-Studio.svg" width="50px" />   | `Azure Machine Learning Studio` |     [Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-machine-learning-studio) is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure.  |
 
 <br/>
 
