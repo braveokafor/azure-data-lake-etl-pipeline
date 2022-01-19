@@ -98,7 +98,14 @@ sudo docker-compose up -d
 | ------------------------------------------------------ | -------------------- | --------------------------------------------------- |
 |  <img src="./icons/Event-Hubs.svg" width="50px" />     | `Azure Event Hub`    |                  WordPress URL                      |
 
+<br/>
 
+###### `Streaming`
+
+
+|                                                               |        Service           |                  Description                        |
+| ------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
+|  <img src="./icons/Stream-Analytics-Jobs.svg" width="50px" /> | `Azure Stream Analytics` |                  WordPress URL                      |
 
 
 ### 🐳 Stop WordPress on Local Computer (docker-compose down)
