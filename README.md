@@ -128,7 +128,14 @@ sudo docker-compose up -d
 | ------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
 |  <img src="./icons/SAP-Azure-Monitor.svg" width="50px" />     | `Azure Monitor`          |                  WordPress URL                      |
 
+<br/>
 
+###### `Provisioning`
+
+
+|                                                               |        Service                     |                  Description                        |
+| ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       | `Azure Resource Manager Templates` |                  WordPress URL                      |
 
 
 
