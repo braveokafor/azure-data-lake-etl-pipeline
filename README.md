@@ -119,6 +119,20 @@ sudo docker-compose up -d
 |  <img src="./icons/Azure-Active-Directory.svg" width="50px" />  | `Azure Active Directory` |                 PHPMyAdmin URL                      |
 |  <img src="./icons/Security-Center.svg" width="50px" />         | `Azure Security Centre`  |                 PHPMyAdmin URL                      |
 
+<br/>
+
+###### `Monitoring`
+
+
+|                                                               |        Service           |                  Description                        |
+| ------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
+|  <img src="./icons/SAP-Azure-Monitor.svg" width="50px" />     | `Azure Monitor`          |                  WordPress URL                      |
+
+
+
+
+
+
 ### 🐳 Stop WordPress on Local Computer (docker-compose down)
 
 Shut-down Docker containers.  
