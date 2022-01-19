@@ -89,6 +89,15 @@ sudo docker-compose up -d
 | ----------------------------------------------------------------- | ------------------------------- | --------------------------------------------------- |
 |  <img src="./icons/Machine-Learning-Studio.svg" width="50px" />   | `Azure Machine Learning Studio` |                  WordPress URL                      |
 
+<br/>
+
+###### `Messaging`
+
+
+|                                                        |        Service       |                  Description                        |
+| ------------------------------------------------------ | -------------------- | --------------------------------------------------- |
+|  <img src="./icons/Event-Hubs.svg" width="50px" />     | `Azure Event Hub`    |                  WordPress URL                      |
+
 
 
 
