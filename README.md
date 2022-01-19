@@ -194,5 +194,6 @@
 
 ## <p align="center">✌️ Info</p>
 
-
-Created by [Brave Okafor](https://github.com/braveokafor) for [Tynes.science](https://tynes.science/).
+<div align="center">
+Created by [Brave Okafor](https://github.com/braveokafor) for [Tynes](https://tynes.science/).
+</div>
