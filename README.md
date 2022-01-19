@@ -74,8 +74,8 @@
 
 ###### `Data Warehouse (Processed Data)`
 
-|                                                                |          Service              |                  Description                        |
-| -------------------------------------------------------------- | ----------------------------- | --------------------------------------------------- |
+|                                                                |          Service              |                  Description                                                                                                                                                                                                                                             |
+| -------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  <img src="./icons/SQL-Elastic-Pools.svg" width="50px" />      | `Azure Dedicated SQL Pool`    |                  [Azure Dedicated SQL pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is) (formerly SQL DW) refers to the enterprise data warehousing features that are available in Azure Synapse    |
 |  <img src="./icons/Azure-Synapse-Analytics.svg" width="50px" />| `Azure Synapse Analytics`     |                  [Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is) is an analytics service that brings together enterprise data warehousing and Big Data analytics.             |
 
@@ -84,8 +84,8 @@
 
 ###### `Advanced Machine Learning`
 
-|                                                                   |          Service                |                  Description                        |
-| ----------------------------------------------------------------- | ------------------------------- | --------------------------------------------------- |
+|                                                                   |          Service                |                  Description                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  <img src="./icons/Machine-Learning-Studio.svg" width="50px" />   | `Azure Machine Learning Studio` |     [Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-machine-learning-studio) is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure.  |
 
 <br/>
@@ -93,8 +93,8 @@
 ###### `Messaging`
 
 
-|                                                        |        Service       |                  Description                        |
-| ------------------------------------------------------ | -------------------- | --------------------------------------------------- |
+|                                                        |        Service       |                  Description                                                                                                                                                                                       |
+| ------------------------------------------------------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  <img src="./icons/Event-Hubs.svg" width="50px" />     | `Azure Event Hub`    |   [Azure Event Hub](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about) is a big data streaming platform and event ingestion service. It can receive and process millions of events per second.    |
 
 <br/>
@@ -102,8 +102,8 @@
 ###### `Streaming`
 
 
-|                                                               |        Service           |                  Description                        |
-| ------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
+|                                                               |        Service           |                  Description                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  <img src="./icons/Stream-Analytics-Jobs.svg" width="50px" /> | `Azure Stream Analytics` |    [Azure Stream](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction) Analytics is a real-time analytics and complex event-processing engine that is designed to analyze and process high volumes of fast streaming data from multiple sources simultaneously.   |
 
 <br/>
@@ -111,20 +111,20 @@
 ###### `Authentication, Authorization & Security`
 
 
-|                                                                 |        Service           |                  Description                        |
-| --------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
-|  <img src="./icons/Key-Vaults.svg" width="50px" />              | `Azure Key Vault`        |    [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/general/basic-concepts) is a cloud service for securely storing and accessing secrets.   |
-|  <img src="./icons/Policy.svg" width="50px" />                  | `Azure Policy`           |    [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview) helps to enforce organizational standards and to assess compliance at-scale.   |
+|                                                                 |        Service           |                  Description                                                                                                                                                                                                                                       |
+| --------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  <img src="./icons/Key-Vaults.svg" width="50px" />              | `Azure Key Vault`        |    [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/general/basic-concepts) is a cloud service for securely storing and accessing secrets.                                                                                                       |
+|  <img src="./icons/Policy.svg" width="50px" />                  | `Azure Policy`           |    [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview) helps to enforce organizational standards and to assess compliance at-scale.                                                                                                  |
 |  <img src="./icons/Azure-Active-Directory.svg" width="50px" />  | `Azure Active Directory` |    [Azure Active](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis) Directory (Azure AD) is Microsoft’s cloud-based identity and access management service, which helps your employees sign in and access resources.   |
-|  <img src="./icons/Azure-Defender.svg" width="50px" />         | `Microsoft Defender for Cloud`  |    [Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction) is a tool for security posture management and threat protection.   |
+|  <img src="./icons/Azure-Defender.svg" width="50px" />         | `Microsoft Defender for Cloud`  |    [Microsoft Defender for Cloud](https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction) is a tool for security posture management and threat protection.                                                                |
 
 <br/>
 
 ###### `Monitoring`
 
 
-|                                                               |        Service           |                  Description                        |
-| ------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
+|                                                               |        Service           |                  Description                                                                                                                                             |
+| ------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  <img src="./icons/SAP-Azure-Monitor.svg" width="50px" />     | `Azure Monitor`          |   [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview) helps you maximize the availability and performance of your applications and services   |
 
 <br/>
@@ -132,8 +132,8 @@
 ###### `Provisioning`
 
 
-|                                                               |        Service                     |                  Description                        |
-| ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
+|                                                               |        Service                     |                  Description                                                                                                                                                                                        |
+| ------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       | `Azure Resource Manager Templates` |   [ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) are a form of infrastructure as code, a concept where you define the infrastructure that needs to be deployed.  |
 
 <br/>
@@ -149,11 +149,11 @@
 ###### `Data Input Types`
 
 
-|                                                               |        Service                     |                  Description                        |
-| ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
+|                                                           |        Service                     |                  Description                                                                                                                                                                                                                                                                                                                                                        |
+| --------------------------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  <img src="./icons/spreadsheet.svg" width="50px" />       |         `Structured Data`          |    [Structured data](https://www.ibm.com/cloud/blog/structured-vs-unstructured-data), typically categorized as quantitative data — is highly organized and easily decipherable by machine learning algorithms. Structured Query Language (SQL) is the programming language used to manage structured data                                                                           |
 |  <img src="./icons/binary-file.svg" width="50px" />       |        `Unstructured Data`         |    [Unstructured data](https://www.ibm.com/cloud/blog/structured-vs-unstructured-data), typically categorized as qualitative data, cannot be processed and analyzed via conventional data tools and methods. Since unstructured data does not have a predefined data model, it is best managed in non-relational (NoSQL) databases or data lakes (in its raw form).                 |
-|  <img src="./icons/xml.svg" width="50px" height="50px"/>       |      `Semi-Structured Data`        |    [Semi-structured data](https://en.wikipedia.org/wiki/Semi-structured_data) is a form of structured data that does not obey the tabular structure of data models associated with relational databases or other forms of data tables, but nonetheless contains tags or other markers to separate semantic elements and enforce hierarchies of records and fields within the data.  |
+|  <img src="./icons/xml.svg" width="50px" height="50px"/>  |      `Semi-Structured Data`        |    [Semi-structured data](https://en.wikipedia.org/wiki/Semi-structured_data) is a form of structured data that does not obey the tabular structure of data models associated with relational databases or other forms of data tables, but nonetheless contains tags or other markers to separate semantic elements and enforce hierarchies of records and fields within the data.  |
 
 <br/>
 <hr/>
@@ -167,10 +167,10 @@
 ###### `Analysis Types`
 
 
-|                                                               |        Service                     |                  Description                        |
-| ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
-|  <img src="./icons/HD-Insight-Clusters.svg" width="50px" />       |         `Azure HDInsight`          |                  Azure HDInsight, supports multiple open-source frameworks such as Hadoop, Apache Spark, Apache Hive, LLAP, Apache Kafka, Apache Storm, R, and more, in your Azure environment.    |
-|  <img src="./icons/Azure-Databricks.svg" width="50px" />       |        `Azure DataBricks`          |                  Azure DataBricks supports multiple open source frameworks such as Apache Spark, and Apache Kafka. It also enables collaborative work for teams.                      |
+|                                                               |        Service                     |                  Description                                                                                                                                                                     |
+| ------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  <img src="./icons/HD-Insight-Clusters.svg" width="50px" />   |         `Azure HDInsight`          |                  Azure HDInsight, supports multiple open-source frameworks such as Hadoop, Apache Spark, Apache Hive, LLAP, Apache Kafka, Apache Storm, R, and more, in your Azure environment.  |
+|  <img src="./icons/Azure-Databricks.svg" width="50px" />      |        `Azure DataBricks`          |                  Azure DataBricks supports multiple open source frameworks such as Apache Spark, and Apache Kafka. It also enables collaborative work for teams.                                 |
 
 
 <br/>
