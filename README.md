@@ -1,8 +1,8 @@
 <h1 align="center">
   <img src="./azure-data-lake.png" width="900px"/><br/><br/>
-  Azure Data Lake
+  Azure Data Lake ETL Pipeline
 </h1>
-<p align="center">This is a <b>Big Data</b> pipeline desinged for <b>Azure Data Lake</b></p>
+<p align="center">This is a <b>Big Data</b> Enterprise ETL Pipeline desinged for <b>Azure Data Lake</b></p>
 
 <br/>
 <hr/>
@@ -10,8 +10,42 @@
 ## <p align="center">⚡️ How it Works</p>
 
 <br/>
-<p align="center">
-Coming Soon.
+<p>
+For Batch processing:
+
+
+
+Azure Data Factory ingests data from multiple sources.
+
+
+
+The data is processed using an Azure data processing solution such as Azure DataBricks or Azure HDInsight.
+
+
+
+The Processed data is stored in Azure Dedicated SQL Pool (formerly Azure SQL DataWarehouse).
+
+
+
+The data is ready for consumption/presentation.
+
+
+
+The data can also be used in more advanced ML Model training.
+
+
+
+For Real Time processing:
+
+
+
+Real time data is ingested by Azure Event Hub.
+
+This data is sent to Azure Stream Analytics for processing.
+
+The processed data is ready for consumption/presentation.
+
+The data can also be sent to Azure Data Lake for further processing.
 </p>
 
 <br/>
@@ -137,6 +171,7 @@ Coming Soon.
 |  <img src="./icons/xml.svg" width="50px" height="50px"/>       |      `Semi-Structured Data`        |    [Semi-structured data](https://en.wikipedia.org/wiki/Semi-structured_data) is a form of structured data that does not obey the tabular structure of data models associated with relational databases or other forms of data tables, but nonetheless contains tags or other markers to separate semantic elements and enforce hierarchies of records and fields within the data.  |
 
 <br/>
+<hr/>
 
 
 
@@ -154,6 +189,7 @@ Coming Soon.
 
 
 <br/>
+<hr/>
 
 
 ### 🔗 Networking Services Used
