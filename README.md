@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/11/09/08/58/wordpress-1810632_1280.jpg" width="224px"/><br/>
+  <img src="./azure-data-lake.png" width="224px"/><br/>
   SlingShot Biz
 </h1>
 <p align="center">Automatically deploy a locally hosted <b>WordPress</b> site to <b>Google Kubernetes Engine</b>.<br/> 
