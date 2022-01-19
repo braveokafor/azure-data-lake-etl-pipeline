@@ -41,14 +41,14 @@ sudo docker-compose up -d
 ```
 
 
-### ⚙️ Details
+### ⚙️ Services Used
 
 ###### `Data Ingestion`
 
 
 |        Service       |                   Description                       |
 | -------------------- | --------------------------------------------------- |
-| `Azure Data Factory` |                  WordPress URL                      |
+| `Azure Data Factory`   <img src="./azure-data-lake.png" width="900px"/><br/> |                  WordPress URL                      |
 |       `IOT Hub`      |                    MySQL URL                        |
 |     `Logic Apps`     |                 PHPMyAdmin URL                      |
 |   `Function Apps`    |                 PHPMyAdmin URL                      |
