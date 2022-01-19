@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./azure-data-lake.png" width="900px"/><br/>
+  <img src="./azure-data-lake.png" width="900px"/><br/><br/>
   Azure Data Lake
 </h1>
 <p align="center">This is a <b>Big Data</b> pipeline desinged for <b>Azure Data Lake</b></p>
