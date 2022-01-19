@@ -118,7 +118,7 @@ Coming Soon.
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       | `Azure Resource Manager Templates` |   [ARM templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) are a form of infrastructure as code, a concept where you define the infrastructure that needs to be deployed.  |
 
 <br/>
-
+<hr/>
 
 
 
