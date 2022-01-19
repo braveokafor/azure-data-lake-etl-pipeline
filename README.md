@@ -189,8 +189,8 @@
 | ------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  <img src="./icons/Virtual-Networks.svg" width="50px" />      |          `Azure VNET`               |    [Azure Virtual Network (VNet)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview) is the fundamental building block for your private network in Azure. VNet enables many types of Azure resources, such as Azure Virtual Machines (VM), to securely communicate with each other, the internet, and on-premises networks.    |
 |  <img src="./icons/Private-Link.svg" width="50px" />          |      `Azure Private DNS`            |    [Azure Private DNS](https://docs.microsoft.com/en-us/azure/dns/private-dns-overview) provides a reliable and secure DNS service for your virtual network.                                                                                                                                                                                                  |
-
-
+<br/>
+<hr/>
 
 ## ✌️ Info
 
