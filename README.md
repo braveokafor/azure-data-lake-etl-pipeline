@@ -190,6 +190,19 @@ sudo docker-compose up -d
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       |  `Azure Resource Manager Templates` |                  WordPress URL                      |
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       |              `Terraform`            |                  WordPress URL                      |
 
+<br/>
+
+### ⚙️ Networking Services Used
+
+<br/>
+
+###### `Networking`
+
+
+|                                                               |        Service                      |                  Description                        |
+| ------------------------------------------------------------- | ----------------------------------- | --------------------------------------------------- |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |  `Azure VPC`                        |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |              `Azure DNS`            |                  WordPress URL                      |
 
 
 ### 🐳 Stop WordPress on Local Computer (docker-compose down)
