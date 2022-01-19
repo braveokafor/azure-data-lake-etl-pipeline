@@ -46,12 +46,12 @@ sudo docker-compose up -d
 ###### `Data Ingestion`
 
 
-|                      |        Service                                      |                   Description                       |
-| -------------------- | --------------------------------------------------- |
-| <p><img src="./icons/Data-Factory.svg" width="50px" /> | `Azure Data Factory`   |                  WordPress URL                      |
-|       `IOT Hub`      |                    MySQL URL                        |
-|     `Logic Apps`     |                 PHPMyAdmin URL                      |
-|   `Function Apps`    |                 PHPMyAdmin URL                      |
+|                     |        Service                                      |                   Description                       |
+| -------------------------------------------------- | --------------------------------------------------- |
+|  <img src="./icons/Data-Factory.svg" width="50px" />   | `Azure Data Factory`   |                  WordPress URL                      |
+|  <img src="./icons/Data-Factory.svg" width="50px" />   |       `IOT Hub`      |                    MySQL URL                        |
+|  <img src="./icons/Data-Factory.svg" width="50px" />   |     `Logic Apps`     |                 PHPMyAdmin URL                      |
+|  <img src="./icons/Data-Factory.svg" width="50px" />   |   `Function Apps`    |                 PHPMyAdmin URL                      |
 
 <br/>
 
