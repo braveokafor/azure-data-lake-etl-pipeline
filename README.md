@@ -185,10 +185,10 @@ sudo docker-compose up -d
 ###### `IAC`
 
 
-|                                                               |        Service                     |                  Description                        |
-| ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Structured Data`          |                  WordPress URL                      |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |       `Semi-Structured Data`       |                  WordPress URL                      |
+|                                                               |        Service                      |                  Description                        |
+| ------------------------------------------------------------- | ----------------------------------- | --------------------------------------------------- |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |  `Azure Resource Manager Templates` |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |              `Terraform`            |                  WordPress URL                      |
 
 
 
