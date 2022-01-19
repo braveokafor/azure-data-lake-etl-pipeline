@@ -41,16 +41,30 @@ sudo docker-compose up -d
 ```
 
 
-### ⚙️ URL's & Ports
+### ⚙️ Details
 
-###### `url's`
+###### `Data Ingestion`
 
 
-|   Service   |                   Description                       |  URL             |    Port   |
-| ----------- | --------------------------------------------------- | ---------------- | --------- |
-| `wordpress` |                  WordPress URL                      | `localhost:80`   |    80     |
-|   `mysql`   |                    MySQL URL                        | `localhost:3306` |   3306    |
-| `phpmyadmin`|                 PHPMyAdmin URL                      | `localhost:8000` |   8000    |
+|        Service       |                   Description                       |
+| -------------------- | --------------------------------------------------- |
+| `Azure Data Factory` |                  WordPress URL                      |
+|       `IOT Hub`      |                    MySQL URL                        |
+|     `Logic Apps`     |                 PHPMyAdmin URL                      |
+|   `Function Apps`    |                 PHPMyAdmin URL                      |
+
+
+###### `Data Ingestion`
+
+
+|        Service       |                   Description                       |
+| -------------------- | --------------------------------------------------- |
+| `Azure Data Factory` |                  WordPress URL                      |
+|       `IOT Hub`      |                    MySQL URL                        |
+|     `Logic Apps`     |                 PHPMyAdmin URL                      |
+|   `Function Apps`    |                 PHPMyAdmin URL                      |
+
+
 
 ### 🐳 Stop WordPress on Local Computer (docker-compose down)
 
