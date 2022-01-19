@@ -122,9 +122,10 @@ Coming Soon.
 
 
 
-### ⚙️ Accepted Data Input Types
+### 💽 Accepted Data Input Types 
 
 <br/>
+
 
 ###### `Data Input Types`
 
@@ -139,7 +140,7 @@ Coming Soon.
 
 
 
-### ⚙️ Supported Analysis Types
+### 🔍 Supported Analysis Types
 
 <br/>
 
@@ -154,9 +155,9 @@ Coming Soon.
 
 <br/>
 
-### ⚙️ Implementation / Provisioning
+### 🏗 Implementation / Provisioning
 
-<br/>
+<br/> 🏗
 
 ###### `IAC`
 
@@ -168,7 +169,7 @@ Coming Soon.
 
 <br/>
 
-### ⚙️ Networking Services Used
+### 🔗 Networking Services Used
 
 <br/>
 
