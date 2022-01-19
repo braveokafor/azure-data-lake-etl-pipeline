@@ -81,6 +81,14 @@ sudo docker-compose up -d
 |  <img src="./icons/SQL-Data-Warehouses.svg" width="50px" />    | `Azure SQL (Data Ware House)` |                  WordPress URL                      |
 |  <img src="./icons/Analysis-Services.svg" width="50px" />      | `Azure Analysis Service`      |                  WordPress URL                      |
 
+<br/>
+
+###### `Advanced Machine Learning`
+
+|                                                                   |          Service                |                  Description                        |
+| ----------------------------------------------------------------- | ------------------------------- | --------------------------------------------------- |
+|  <img src="./icons/Machine-Learning-Studio.svg" width="50px" />   | `Azure Machine Learning Studio` |                  WordPress URL                      |
+
 
 
 
