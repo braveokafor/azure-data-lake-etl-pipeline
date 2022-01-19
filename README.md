@@ -132,9 +132,9 @@ Coming Soon.
 
 |                                                               |        Service                     |                  Description                        |
 | ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Structured Data`          |                  WordPress URL                      |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |       `Semi-Structured Data`       |                  WordPress URL                      |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Unstructured Data`        |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Structured Data`          |    Structured data — typically categorized as quantitative data — is highly organized and easily decipherable by machine learning algorithms. Structured Query Language (SQL) is the programming language used to manage structured data   |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |      `Unstructured Data`      |    Unstructured data, typically categorized as qualitative data, cannot be processed and analyzed via conventional data tools and methods. Since unstructured data does not have a predefined data model, it is best managed in non-relational (NoSQL) databases or data lakes (in its raw form).  |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |          `Semi-Structured Data`       |                  WordPress URL                      |
 
 <br/>
 
