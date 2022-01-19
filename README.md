@@ -66,29 +66,20 @@ sudo docker-compose up -d
 
 ###### `Processing`
 
-
-|        Service       |                   Description                       |
-| -------------------- | --------------------------------------------------- |
-|      `Azure Data Bricks`    |                  WordPress URL                      |
-|      `Azure HD Insight`     |                    MySQL URL                        |
-| `Azure Data Lake Analytics` |                 PHPMyAdmin URL                      |
-
-
 |                                                                |          Service            |                  Description                        |
 | -------------------------------------------------------------- | --------------------------- | --------------------------------------------------- |
 |  <img src="./icons/Data-Lake-Store-Gen1.svg" width="50px" />   | `Azure Data Bricks`         |                  WordPress URL                      |
 |  <img src="./icons/HD-Insight-Clusters.svg" width="50px" />    | `Azure HD Insight`          |                  WordPress URL                      |
-|  <img src="" width="50px" />                                   | `Azure Data Lake Analytics` |                  WordPress URL                      |
+|                                                                | `Azure Data Lake Analytics` |                  WordPress URL                      |
              
 <br/>
 
 ###### `Data Warehouse (Processed Data)`
 
-
-|        Service       |                   Description                       |
-| -------------------- | --------------------------------------------------- |
-| `Azure SQL (Data Ware House)` |                  WordPress URL                      |
-|   `Azure Analysis Service`    |                    MySQL URL                        |
+|                                                                |          Service              |                  Description                        |
+| -------------------------------------------------------------- | ----------------------------- | --------------------------------------------------- |
+|  <img src="./icons/SQL-Data-Warehouses.svg" width="50px" />    | `Azure SQL (Data Ware House)` |                  WordPress URL                      |
+|  <img src="./icons/Analysis-Services.svg" width="50px" />      | `Azure Analysis Service`      |                  WordPress URL                      |
 
 
 
