@@ -57,11 +57,6 @@ sudo docker-compose up -d
 
 ###### `Data Lake (Raw Data)`
 
-
-|          Service        |                   Description                       |
-| ----------------------- | --------------------------------------------------- |
-| `Azure Data Lake Store` |                  WordPress URL                      |
-
 |                                                                |          Service        |                  Description                        |
 | -------------------------------------------------------------- | ----------------------- | --------------------------------------------------- |
 |  <img src="./icons/Data-Lake-Store-Gen1.svg" width="50px" />   | `Azure Data Lake Store` |                  WordPress URL                      |
@@ -78,6 +73,13 @@ sudo docker-compose up -d
 |      `Azure HD Insight`     |                    MySQL URL                        |
 | `Azure Data Lake Analytics` |                 PHPMyAdmin URL                      |
 
+
+|                                                                |          Service            |                  Description                        |
+| -------------------------------------------------------------- | --------------------------- | --------------------------------------------------- |
+|  <img src="./icons/Data-Lake-Store-Gen1.svg" width="50px" />   | `Azure Data Bricks`         |                  WordPress URL                      |
+|  <img src="./icons/HD-Insight-Clusters.svg" width="50px" />    | `Azure HD Insight`          |                  WordPress URL                      |
+|                                                                | `Azure Data Lake Analytics` |                  WordPress URL                      |
+             
 <br/>
 
 ###### `Data Warehouse (Processed Data)`
