@@ -107,6 +107,17 @@ sudo docker-compose up -d
 | ------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
 |  <img src="./icons/Stream-Analytics-Jobs.svg" width="50px" /> | `Azure Stream Analytics` |                  WordPress URL                      |
 
+<br/>
+
+###### `Authentication, Authorization & Security`
+
+
+|                                                                 |        Service           |                  Description                        |
+| --------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
+|  <img src="./icons/Key-Vaults.svg" width="50px" />              | `Azure Key Vault`        |                  WordPress URL                      |
+|  <img src="./icons/Policy.svg" width="50px" />                  | `Azure Policy`           |                    MySQL URL                        |
+|  <img src="./icons/Azure-Active-Directory.svg" width="50px" />  | `Azure Active Directory` |                 PHPMyAdmin URL                      |
+|  <img src="./icons/Security-Center.svg" width="50px" />         | `Azure Security Centre`  |                 PHPMyAdmin URL                      |
 
 ### 🐳 Stop WordPress on Local Computer (docker-compose down)
 
