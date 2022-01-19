@@ -149,8 +149,8 @@ Coming Soon.
 
 |                                                               |        Service                     |                  Description                        |
 | ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Azure HDInsight`          |                  With HDInsight, you can use open-source frameworks such as Hadoop, Apache Spark, Apache Hive, LLAP, Apache Kafka, Apache Storm, R, and more, in your Azure environment.                      |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |       `Semi-Structured Data`       |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Azure HDInsight`          |                  Azure HDInsight, supports multiple open-source frameworks such as Hadoop, Apache Spark, Apache Hive, LLAP, Apache Kafka, Apache Storm, R, and more, in your Azure environment.    |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |        `Azure DataBricks`          |                  Azure DataBricks supports multiple open source frameworks such as Apache Spark, and Apache Kafka. It also enables collaborative work for teams.                      |
 
 
 <br/>
