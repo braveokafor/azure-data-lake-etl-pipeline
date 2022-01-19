@@ -192,8 +192,7 @@
 
 
 
-## <p align="center">✌️ Info</p>
+## ✌️ Info
 
-<center>
 Created by [Brave Okafor](https://github.com/braveokafor) for [Tynes](https://tynes.science/).
-</center>
+
