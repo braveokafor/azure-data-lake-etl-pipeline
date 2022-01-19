@@ -54,7 +54,7 @@ sudo docker-compose up -d
 |   `Function Apps`    |                 PHPMyAdmin URL                      |
 
 
-###### `Storage`
+###### `Data Lake (Raw Data)`
 
 
 |        Service       |                   Description                       |
@@ -70,6 +70,17 @@ sudo docker-compose up -d
 |      `Azure Data Bricks`    |                  WordPress URL                      |
 |      `Azure HD Insight`     |                    MySQL URL                        |
 | `Azure Data Lake Analytics` |                 PHPMyAdmin URL                      |
+
+
+###### `Data Warehouse (Processed Data)`
+
+
+|        Service       |                   Description                       |
+| -------------------- | --------------------------------------------------- |
+| `Azure Data Factory` |                  WordPress URL                      |
+|       `IOT Hub`      |                    MySQL URL                        |
+|     `Logic Apps`     |                 PHPMyAdmin URL                      |
+|   `Function Apps`    |                 PHPMyAdmin URL                      |
 
 
 
