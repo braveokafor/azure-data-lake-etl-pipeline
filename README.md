@@ -48,7 +48,7 @@ sudo docker-compose up -d
 
 |        Service       |                   Description                       |
 | -------------------- | --------------------------------------------------- |
-| `Azure Data Factory`   <img src="./azure-data-lake.png" width="900px"/><br/> |                  WordPress URL                      |
+| <img src="./icons/Data-Factory.svg" />`Azure Data Factory` |                  WordPress URL                      |
 |       `IOT Hub`      |                    MySQL URL                        |
 |     `Logic Apps`     |                 PHPMyAdmin URL                      |
 |   `Function Apps`    |                 PHPMyAdmin URL                      |
