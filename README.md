@@ -77,10 +77,9 @@ sudo docker-compose up -d
 
 |        Service       |                   Description                       |
 | -------------------- | --------------------------------------------------- |
-| `Azure Data Factory` |                  WordPress URL                      |
-|       `IOT Hub`      |                    MySQL URL                        |
-|     `Logic Apps`     |                 PHPMyAdmin URL                      |
-|   `Function Apps`    |                 PHPMyAdmin URL                      |
+| `Azure SQL (Data Ware House)` |                  WordPress URL                      |
+|   `Azure Analysis Service`    |                    MySQL URL                        |
+
 
 
 
