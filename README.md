@@ -185,4 +185,4 @@ Coming Soon.
 
 ## <p align="center">✌️ Info</p>
 
-Created by [Brave Okafor](https://github.com/braveokafor) for Johannes[]().
+<p>Created by [Brave Okafor](https://github.com/braveokafor) for [Tyens.science]](https://tynes.science/).</p>
