@@ -54,15 +54,22 @@ sudo docker-compose up -d
 |   `Function Apps`    |                 PHPMyAdmin URL                      |
 
 
-###### `Data Ingestion`
+###### `Storage`
 
 
 |        Service       |                   Description                       |
 | -------------------- | --------------------------------------------------- |
 | `Azure Data Factory` |                  WordPress URL                      |
-|       `IOT Hub`      |                    MySQL URL                        |
-|     `Logic Apps`     |                 PHPMyAdmin URL                      |
-|   `Function Apps`    |                 PHPMyAdmin URL                      |
+
+
+###### `Processing`
+
+
+|        Service       |                   Description                       |
+| -------------------- | --------------------------------------------------- |
+|      `Azure Data Bricks`    |                  WordPress URL                      |
+|      `Azure HD Insight`     |                    MySQL URL                        |
+| `Azure Data Lake Analytics` |                 PHPMyAdmin URL                      |
 
 
 
