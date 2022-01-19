@@ -58,9 +58,14 @@ sudo docker-compose up -d
 ###### `Data Lake (Raw Data)`
 
 
-|        Service       |                   Description                       |
-| -------------------- | --------------------------------------------------- |
-| `Azure Data Factory` |                  WordPress URL                      |
+|          Service        |                   Description                       |
+| ----------------------- | --------------------------------------------------- |
+| `Azure Data Lake Store` |                  WordPress URL                      |
+
+|                                                                |          Service        |                  Description                        |
+| -------------------------------------------------------------- | ----------------------- | --------------------------------------------------- |
+|  <img src="./icons/Data-Lake-Store-Gen1.svg" width="50px" />   | `Azure Data Lake Store` |                  WordPress URL                      |
+
 
 <br/>
 
