@@ -49,11 +49,11 @@ Clone GitHub repo to Local Computer.
 
 ###### `Processing`
 
-|                                                                |          Service            |                  Description                        |
+|                                                                |          Service            |                  Description                                                                                                                                                                      |
 | -------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  <img src="./icons/Data-Lake-Store-Gen1.svg" width="50px" />   | `Azure DataBricks`          |  [Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks) is a data analytics platform optimized for the Microsoft Azure cloud services platform. |
-|  <img src="./icons/HD-Insight-Clusters.svg" width="50px" />    | `Azure HD Insight`          |                  WordPress URL                      |
-|                                                                | `Azure Data Lake Analytics` |                  WordPress URL                      |
+|  <img src="./icons/HD-Insight-Clusters.svg" width="50px" />    | `Azure HD Insight`          |  [Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-overview) is a managed, full-spectrum, open-source analytics service in the cloud for enterprises.                  |
+|                                                                | `Azure Data Lake Analytics` |  [Azure Data Lake Analytics](https://docs.microsoft.com/en-us/azure/data-lake-analytics/) allows you to run big data analysis jobs that scale to massive data sets.                               |
              
 <br/>
 
@@ -151,9 +151,9 @@ Clone GitHub repo to Local Computer.
 
 |                                                               |        Service                     |                  Description                        |
 | ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Structured Data`          |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Azure HDInsight`          |                  With HDInsight, you can use open-source frameworks such as Hadoop, Apache Spark, Apache Hive, LLAP, Apache Kafka, Apache Storm, R, and more, in your Azure environment.                      |
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       |       `Semi-Structured Data`       |                  WordPress URL                      |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Unstructured Data`        |                  WordPress URL                      |
+
 
 <br/>
 
@@ -184,28 +184,7 @@ Clone GitHub repo to Local Computer.
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       |              `Azure DNS`            |                  WordPress URL                      |
 
 
-### 🐳 Stop WordPress on Local Computer (docker-compose down)
-
-Shut-down Docker containers.  
-
-> To shutdown the docker-compose environment, run:
-
-```bash
-docker-compose down
-```
-
-### 🚚 Deploy to GKE (git commit)
-To push modifications to GitHub (deploy to GKE), navigate to cloned folder.  
-
-> To push modifications to GitHub repo:
-
-```bash
-git add *;
-git commit -m "Modified wp-content";
-git push;
-```
-
 
 ## ✌️ Info
 
-Created by [Brave Okafor](https://github.com/braveokafor) for [Slingshot Biz](https://github.com/slingshotbiz).
+Created by [Brave Okafor](https://github.com/braveokafor) for Johannes[]().
