@@ -5,7 +5,8 @@
 <p align="center">This is a <b>Big Data</b> pipeline desinged for <b>Azure Data Lake</b></p>
 
 
-## ⚡️ Quick start
+## <p align="center">⚡️ How it Works</p>
+<br/>
 
 First of all, install the latest versions of [Docker](https://docs.docker.com/engine/install/) and install [Docker-Compose](https://docs.docker.com/compose/install/).  
 
