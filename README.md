@@ -46,7 +46,7 @@ sudo docker-compose up -d
 ###### `Data Ingestion`
 
 
-|                        Logo                            |        Service       |                  Description                        |
+|                                                        |        Service       |                  Description                        |
 | ------------------------------------------------------ | -------------------- | --------------------------------------------------- |
 |  <img src="./icons/Data-Factory.svg" width="20px" />   | `Azure Data Factory` |                  WordPress URL                      |
 |  <img src="./icons/Data-Factory.svg" width="20px" />   |       `IOT Hub`      |                    MySQL URL                        |
