@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./azure-data-lake.png" width="900px"/><br/>
-  SlingShot Biz
+  Azure Data Lake
 </h1>
 <p align="center">Automatically deploy a locally hosted <b>WordPress</b> site to <b>Google Kubernetes Engine</b>.<br/> 
 <b>Local Orchestration</b> (Docker Compose), <b>Remote GCP Orchestration</b> (GKE)<br/>and <b>CI/CD</b> (CloudBuild).<br/>
