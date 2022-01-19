@@ -2,10 +2,7 @@
   <img src="./azure-data-lake.png" width="900px"/><br/>
   Azure Data Lake
 </h1>
-<p align="center">Automatically deploy a locally hosted <b>WordPress</b> site to <b>Google Kubernetes Engine</b>.<br/> 
-<b>Local Orchestration</b> (Docker Compose), <b>Remote GCP Orchestration</b> (GKE)<br/>and <b>CI/CD</b> (CloudBuild).<br/>
-<br/>
-On push to this <b>GitHub</b> repo, a <b>CloudBuild</b> trigger redeploys the <b>WordPress</b> workload and clones this repo to <b>/var/www/html</b> on the WordPress GKE container.</p>
+<p align="center">This is a <b>Big Data</b> pipeline desinged for <b>Azure Data Lake</b></p>
 
 
 ## ⚡️ Quick start
