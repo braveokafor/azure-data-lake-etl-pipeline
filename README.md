@@ -176,7 +176,7 @@ sudo docker-compose up -d
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       |       `Semi-Structured Data`       |                  WordPress URL                      |
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Unstructured Data`        |                  WordPress URL                      |
 
-
+<br/>
 
 ### ⚙️ Implementation / Provisioning
 
