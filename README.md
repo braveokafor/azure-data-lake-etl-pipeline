@@ -42,6 +42,7 @@ sudo docker-compose up -d
 
 ## <p align="center">✌️ Details</p>
 <br/>
+
 ### ⚙️ Services Used
 
 ###### `Data Ingestion`
