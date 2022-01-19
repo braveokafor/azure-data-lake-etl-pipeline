@@ -40,9 +40,9 @@ Clone GitHub repo to Local Computer.
 
 ###### `Data Lake (Raw Data)`
 
-|                                                                |          Service        |                  Description                        |
-| -------------------------------------------------------------- | ----------------------- | --------------------------------------------------- |
-|  <img src="./icons/Data-Lake-Store-Gen1.svg" width="50px" />   | `Azure Data Lake Store` |                  WordPress URL                      |
+|                                                                |          Service        |                  Description                                                                                                                                                                                       |
+| -------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  <img src="./icons/Data-Lake-Store-Gen1.svg" width="50px" />   | `Azure Data Lake Store` |  [Azure Data Lake Storage](https://azure.microsoft.com/en-us/services/storage/data-lake-storage/#documentation) is a secure cloud platform that provides scalable, cost-effective storage for big data analytics.  |
 
 
 <br/>
@@ -50,8 +50,8 @@ Clone GitHub repo to Local Computer.
 ###### `Processing`
 
 |                                                                |          Service            |                  Description                        |
-| -------------------------------------------------------------- | --------------------------- | --------------------------------------------------- |
-|  <img src="./icons/Data-Lake-Store-Gen1.svg" width="50px" />   | `Azure Data Bricks`         |                  WordPress URL                      |
+| -------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <img src="./icons/Data-Lake-Store-Gen1.svg" width="50px" />   | `Azure DataBricks`          |  [Azure Databricks](https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks) is a data analytics platform optimized for the Microsoft Azure cloud services platform. |
 |  <img src="./icons/HD-Insight-Clusters.svg" width="50px" />    | `Azure HD Insight`          |                  WordPress URL                      |
 |                                                                | `Azure Data Lake Analytics` |                  WordPress URL                      |
              
