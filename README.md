@@ -172,6 +172,5 @@ Coming Soon.
 
 ## <p align="center">✌️ Info</p>
 
-<p align="center"> 
+
 Created by [Brave Okafor](https://github.com/braveokafor) for [Tynes.science](https://tynes.science/).
-</p>
