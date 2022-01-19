@@ -150,11 +150,46 @@ sudo docker-compose up -d
 
 <br/>
 
+###### `Data Input Types`
+
+
 |                                                               |        Service                     |                  Description                        |
 | ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Structured Data`          |                  WordPress URL                      |
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       |       `Semi-Structured Data`       |                  WordPress URL                      |
 |  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Unstructured Data`        |                  WordPress URL                      |
+
+<br/>
+
+
+
+### ⚙️ Supported Analysis Types
+
+<br/>
+
+###### `Analysis Types`
+
+
+|                                                               |        Service                     |                  Description                        |
+| ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Structured Data`          |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |       `Semi-Structured Data`       |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Unstructured Data`        |                  WordPress URL                      |
+
+
+
+### ⚙️ Implementation / Provisioning
+
+<br/>
+
+###### `IAC`
+
+
+|                                                               |        Service                     |                  Description                        |
+| ------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------- |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |         `Structured Data`          |                  WordPress URL                      |
+|  <img src="./icons/Resource-Groups.svg" width="50px" />       |       `Semi-Structured Data`       |                  WordPress URL                      |
+
 
 
 ### 🐳 Stop WordPress on Local Computer (docker-compose down)
