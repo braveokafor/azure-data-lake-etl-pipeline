@@ -15,9 +15,8 @@ First of all, install the latest versions of [Docker](https://docs.docker.com/en
 
 </p>
 
-
-## <p align="center">✌️ Details</p>
 <br/>
+## <p align="center">✌️ Details</p>
 
 ### ⚙️ Services Used
 
