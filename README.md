@@ -10,9 +10,9 @@
 ## <p align="center">⚡️ How it Works</p>
 
 <br/>
-
+<p align="centre">
 First of all, install the latest versions of [Docker](https://docs.docker.com/engine/install/) and install [Docker-Compose](https://docs.docker.com/compose/install/).  
-
+</p>
 ### ⚙️ Clone GitHub Repo (git clone)
 
 Clone GitHub repo to Local Computer.  
