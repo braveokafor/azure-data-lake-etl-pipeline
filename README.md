@@ -58,8 +58,8 @@ First of all, install the latest versions of [Docker](https://docs.docker.com/en
 
 |                                                                |          Service              |                  Description                        |
 | -------------------------------------------------------------- | ----------------------------- | --------------------------------------------------- |
-|  <img src="./icons/SQL-Data-Warehouses.svg" width="50px" />    | `Azure Dedicated SQL Pool`    |                  WordPress URL                      |
-|  <img src="./icons/Analysis-Services.svg" width="50px" />      | `Azure Analysis Service`      |                  WordPress URL                      |
+|  <img src="./icons/SQL-Data-Warehouses.svg" width="50px" />    | `Azure Synapse Service`       |                  WordPress URL                      |
+
 
 <br/>
 
