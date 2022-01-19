@@ -48,10 +48,10 @@ sudo docker-compose up -d
 
 |                                                        |        Service       |                  Description                        |
 | ------------------------------------------------------ | -------------------- | --------------------------------------------------- |
-|  <img src="./icons/Data-Factory.svg" width="20px" />   | `Azure Data Factory` |                  WordPress URL                      |
-|  <img src="./icons/Data-Factory.svg" width="20px" />   |       `IOT Hub`      |                    MySQL URL                        |
-|  <img src="./icons/Data-Factory.svg" width="20px" />   |     `Logic Apps`     |                 PHPMyAdmin URL                      |
-|  <img src="./icons/Data-Factory.svg" width="20px" />   |   `Function Apps`    |                 PHPMyAdmin URL                      |
+|  <img src="./icons/Data-Factory.svg" width="50px" />   | `Azure Data Factory` |                  WordPress URL                      |
+|  <img src="./icons/IoT-Hub.svg" width="50px" />        |       `IOT Hub`      |                    MySQL URL                        |
+|  <img src="./icons/Logic-Apps.svg" width="50px" />     |     `Logic Apps`     |                 PHPMyAdmin URL                      |
+|  <img src="./icons/Function-Apps.svg" width="50px" />  |   `Function Apps`    |                 PHPMyAdmin URL                      |
 
 <br/>
 
