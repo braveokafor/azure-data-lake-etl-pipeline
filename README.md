@@ -5,6 +5,7 @@
 <p align="center">This is a <b>Big Data</b> pipeline desinged for <b>Azure Data Lake</b></p>
 
 <br/>
+<hr/>
 
 ## <p align="center">⚡️ How it Works</p>
 
