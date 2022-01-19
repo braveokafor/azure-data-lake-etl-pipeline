@@ -13,23 +13,23 @@
 <p>
 <b>For Batch processing:</b>
 
-<ol>
+<ul>
 <li> Azure Data Factory ingests data from multiple sources. </li>
 <li> The data is processed using an Azure data processing solution such as Azure DataBricks or Azure HDInsight. </li>
 <li> The Processed data is stored in Azure Dedicated SQL Pool (formerly Azure SQL DataWarehouse). </li>
 <li> The data is ready for consumption/presentation. </li>
 <li> The data can also be used in more advanced ML Model training. </li>
-</ol>
+</ul>
 
 
-For Real Time processing:
+<b>For Real Time processing:</b>
 
-<ol>
+<ul>
 <li> Real time data is ingested by Azure Event Hub. </li>
 <li> This data is sent to Azure Stream Analytics for processing. </li>
 <li> The processed data is ready for consumption/presentation. </li>
 <li> The data can also be sent to Azure Data Lake for further processing. </li>
-</ol>
+</ul>
 
 </p>
 
