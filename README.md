@@ -13,10 +13,6 @@
 <p align="center">
 First of all, install the latest versions of [Docker](https://docs.docker.com/engine/install/) and install [Docker-Compose](https://docs.docker.com/compose/install/).  
 
-### ⚙️ Clone GitHub Repo (git clone)
-
-Clone GitHub repo to Local Computer.  
-> 🔔 Make sure your GitHub account is authenticated, as this is a private repo.  
 </p>
 
 
