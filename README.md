@@ -34,6 +34,7 @@
 </p>
 
 <br/>
+<hr/>
 
 ## <p align="center"> 📄 Details</p>
 
