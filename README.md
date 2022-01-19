@@ -155,19 +155,6 @@ Coming Soon.
 
 <br/>
 
-### 🏗 Implementation / Provisioning
-
-<br/>
-
-###### `IAC`
-
-
-|                                                               |        Service                      |                  Description                        |
-| ------------------------------------------------------------- | ----------------------------------- | --------------------------------------------------- |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |  `Azure Resource Manager Templates` |                  WordPress URL                      |
-|  <img src="./icons/Resource-Groups.svg" width="50px" />       |              `Terraform`            |                  WordPress URL                      |
-
-<br/>
 
 ### 🔗 Networking Services Used
 
