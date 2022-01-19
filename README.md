@@ -58,8 +58,8 @@ First of all, install the latest versions of [Docker](https://docs.docker.com/en
 
 |                                                                |          Service              |                  Description                        |
 | -------------------------------------------------------------- | ----------------------------- | --------------------------------------------------- |
-|  <img src="./icons/SQL-Data-Warehouses.svg" width="50px" />    | `Azure Dedicated SQL Pool`    |                  [Azure Dedicated SQL pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is) (formerly SQL DW) refers to the enterprise data warehousing features that are available in Azure Synapse                      |
-|  <img src="./icons/SQL-Data-Warehouses.svg" width="50px" />    | `Azure Synapse Analytics`     |                  [Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is) is an analytics service that brings together enterprise data warehousing and Big Data analytics.                      |
+|  <img src="./icons/SQL-Elastic-Pools.svg" width="50px" />      | `Azure Dedicated SQL Pool`    |                  [Azure Dedicated SQL pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is) (formerly SQL DW) refers to the enterprise data warehousing features that are available in Azure Synapse    |
+|  <img src="./icons/Azure-Synapse-Analytics.svg" width="50px" />| `Azure Synapse Analytics`     |                  [Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is) is an analytics service that brings together enterprise data warehousing and Big Data analytics.             |
 
 
 <br/>
